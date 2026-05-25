@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "echarts": "^6.0.0",
+    "echarts-liquidfill": "^3.1.0",
+    "lodash": "^4.18.1",
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.24"
+  }
+}
